@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeterAkande
-- 👀 I’m interested in Mobile Applications and Backend development
-- 🌱 I’m currently learning more on Native Development on Android and Cross Platform App development with Flutter
+- 👀 I’m interested in Backend development and Mobile Applications Development
+- 🌱 I’m currently learning more about Backend Dvelopment and Cross Platform App development with Flutter
 - 💞️ I’m looking to collaborate on any cool project.
 - 📫 How to reach me : My social Media Handles are on my Profile.
 <!---
